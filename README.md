@@ -1,5 +1,5 @@
 <p align="center">
 
-  <img src="https://cxl.com/wp-content/uploads/2018/09/coding-language.jpg" alt="Coder GIF" width="1750" height="250">
+  <img src="https://cxl.com/wp-content/uploads/2018/09/coding-language.jpg" alt="Coder GIF" width="2100" height="250">
   
 </p>

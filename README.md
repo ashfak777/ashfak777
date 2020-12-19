@@ -6,6 +6,6 @@ Skills: JAVA/ PHP / JS / HTML / CSS
 
 <p align="center">
 
-  <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" alt="Coder GIF" width="500" height="400">
+  <img src="https://cdn.lowgif.com/full/c4d973e058c520ef-the-20-best-visual-studio-code-extensions-for-front-end-developers.gif" alt="Coder GIF" width="500" height="400">
   
 </p>

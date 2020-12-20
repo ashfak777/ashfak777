@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://pa1.narvii.com/6440/7e010685cc0671e4be430186ab5678c4d81bbeb8_hq.gif" width="2100" height="150">
+  <img src="https://github.com/ashfak777/ashfak777/blob/main/coding.gif" width="2100" height="150">
   
 </p>
 <div align="center">
@@ -15,7 +15,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Ashfak!](https://github.com/ashfak777) 
+# Hey <img src="https://github.com/ashfak777/ashfak777/blob/main/wave_1.gif" width="40px">, I'm [Ashfak!](https://github.com/ashfak777) 
 
 - 🔭 I’m currently working on Student
 - 🌱 I’m currently learning Cloud Computing
@@ -77,7 +77,7 @@
 
 <br>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/4c/14/02/4c14021095fd20edc900e2e9b91d318e.gif" width="70px">
+  <img src="https://github.com/ashfak777/ashfak777/blob/main/loading.gif" width="70px">
 </div>
 
 

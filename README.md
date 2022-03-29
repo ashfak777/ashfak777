@@ -18,10 +18,8 @@
 # Hey <img src="https://github.com/ashfak777/ashfak777/blob/main/wave_1.gif" width="40px">, I'm [Ashfak!](https://github.com/ashfak777) 
 
 - 🔭 I’m currently working on Student
-- 🌱 I’m currently learning Cloud Computing
 - 💬 Ask me about anything, I will be happy to help
 - 📫 How to reach me: mrmashfak777@gmail.com
-- ⚡ Fun fact: Hacking is a skill
 
 </br>
 
